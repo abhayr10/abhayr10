@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay R</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
-- 🌱 I’m currently learning **BCA( Artificial Intelligence)**
+- 🌱 I’m currently pursuing **BCA( Artificial Intelligence)**
 
 - 📫 How to reach me **abhayremeshan2020@gmail.com**
 
